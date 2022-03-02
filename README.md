@@ -7,7 +7,7 @@
 <br/>
 
 # 🔗 배포
-[https://infallible-panini-19ee47.netlify.app/](https://infallible-panini-19ee47.netlify.app/)
+[Swit 과제 배포 링크](https://infallible-panini-19ee47.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4cdb7c60-5f99-420f-9f10-5420389e3332/deploy-status)](https://app.netlify.com/sites/infallible-panini-19ee47/deploys)
 
